@@ -3,7 +3,7 @@ A python script to fetch pages, download contained pdf files
 
 # Usage:
 
-line 8: folder_location = r'/Users/fdrissi-/Desktop/scrp/scrappedfilestest'
+```line 8: folder_location = r'/Users/fdrissi-/Desktop/scrp/scrappedfilestest'```
 
 change the path of the folder that you want to save the output in it.
 
